@@ -1,6 +1,6 @@
 # Localized Gaussian Point Management
 [Homepage](https://surrey-uplab.github.io/research/LPM/) [Paper](https://surrey-uplab.github.io/research/LPM/)
-> [**Localized Gaussian Point Management**](https://surrey-uplab.github.io/research/LPM/),            
+> [**Localized Gaussian Point Management**](https://surrey-uplab.github.io/research/LPM/)            
 > Haosen Yang*, Chenhao Zhang*, Wenqing Wang, Marco Volino,  Adrian Hilton, Li Zhang, Xiatian Zhu  
 > **Arxiv preprint**
 
