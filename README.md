@@ -84,5 +84,5 @@ python metrics.py -m <model path>
   journal={arXiv preprint arXiv:2406.04251},
   year={2024}
 }
-}
+
 ```
