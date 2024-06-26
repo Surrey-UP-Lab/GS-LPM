@@ -190,7 +190,7 @@ class LPM:
     def get_points_mask_per_region(self, region):
         xyz = self.gaussians.get_xyz #n,3
         selected_pts_maskx1 = torch.where(region[0]<xyz[:,0], True, False)
-        selected_pts_maskx2 = torch.where(xyz[:,0]<region[1], True, False)  
+        selected_pts_maskx2 = torch.where(xyz[:,0]<region[3], True, False)  
         selected_pts_masky1 = torch.where(region[1]<xyz[:,1], True, False)
         selected_pts_masky2 = torch.where(xyz[:,1]<region[4], True, False)
         selected_pts_maskz1 = torch.where(region[2]<xyz[:,2], True, False)
