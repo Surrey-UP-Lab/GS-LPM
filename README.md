@@ -79,7 +79,7 @@ python metrics.py -m <model path>
 ## 📜 BibTex
 ```bibtex
 @article{yang2024localized,
-  title={Gaussian Splatting with Localized Points Management},
+  title={Localized Gaussian Point Management},
   author={Yang, Haosen and Zhang, Chenhao and Wang, Wenqing and Volino, Marco and Hilton, Adrian and Zhang, Li and Zhu, Xiatian},
   journal={arXiv preprint arXiv:2406.04251},
   year={2024}
