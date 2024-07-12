@@ -102,7 +102,8 @@ def get_paired_views(scene, extractor, matcher, angle, cv2_macher=False, conditi
     for i, current_cam in enumerate(train_cameras):
         valid_cameras = [cam for cam, mask in zip(train_cameras, angles_mask[i]) if mask]
         if not valid_cameras:
-            continue  # Skip if no valid cameras
+            valid_cameras = [current_cam]  # Assign current_cam to valid_cameras if no valid cameras
+            # continue  # Skip if no valid cameras
 
         selected_cameras = random.sample(valid_cameras, min(select_min_num, len(valid_cameras)))
         current_view_pair = []
