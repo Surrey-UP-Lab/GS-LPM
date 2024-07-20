@@ -8,6 +8,7 @@
 **This repository is the official implementation of "Gaussian Splatting with Localized Points Management".** In this paper, we propose a Localized Point Management (LPM) strategy, capable of identifying those error-contributing zones in the highest demand for both point addition and geometry calibration.  Serving as a versatile plugin, LPM can be seamlessly integrated into existing 3D Gaussian Splatting models.
 
 ## Updates
+- **`2024/07/21`**:  We have released [xLPM](https://github.com/Surrey-UP-Lab/xLPM). 2DGS+LPM is available now!!!
 - **`2024/06/15`**: Code is available Now!
 
 ## 🛠️ Pipeline
