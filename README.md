@@ -1,14 +1,15 @@
-# Gaussian Splatting with Localized Points Management
+# Improving Gaussian Splatting with Localized Points Management
 [Homepage](https://surrey-uplab.github.io/research/LPM/) [Paper](https://arxiv.org/abs/2406.04251)
-> [**Gaussian Splatting with Localized Points Management**](https://surrey-uplab.github.io/research/LPM/)           
-> Haosen Yang*, Chenhao Zhang*, Wenqing Wang, Marco Volino, Adrian Hilton, Li Zhang, Xiatian Zhu  
-> **Arxiv preprint**
+> [**Improving Gaussian Splatting with Localized Points Management**](https:///x-up-lab.github.io/research/LPM/)           
+> Haosen Yang*, Chenhao Zhang*, Wenqing Wang*, Marco Volino, Adrian Hilton, Li Zhang, Xiatian Zhu  
+> **CVPR2025**
 
 
 **This repository is the official implementation of "Gaussian Splatting with Localized Points Management".** In this paper, we propose a Localized Point Management (LPM) strategy, capable of identifying those error-contributing zones in the highest demand for both point addition and geometry calibration.  Serving as a versatile plugin, LPM can be seamlessly integrated into existing 3D Gaussian Splatting models.
 
 ## Updates
-- **`2024/07/21`**:  We have released [xLPM](https://github.com/Surrey-UP-Lab/xLPM). 2DGS+LPM is available now!!!
+- **`2024/03/07`**: LPM accepted at CVPR 2025 🎉 🎉 🎉
+- **`2024/07/21`**: We have released [xLPM](https://github.com/Surrey-UP-Lab/xLPM). 2DGS+LPM is available now!!!
 - **`2024/06/15`**: Code is available Now!
 
 ## 🛠️ Pipeline
