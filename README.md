@@ -2,7 +2,7 @@
 [Homepage](https://surrey-uplab.github.io/research/LPM/) [Paper](https://arxiv.org/abs/2406.04251)
 > [**Improving Gaussian Splatting with Localized Points Management**](https:///x-up-lab.github.io/research/LPM/)           
 > Haosen Yang*, Chenhao Zhang*, Wenqing Wang*, Marco Volino, Adrian Hilton, Li Zhang, Xiatian Zhu  
-> **CVPR2025**
+> **CVPR2025 (Highlight)**
 
 
 **This repository is the official implementation of "Gaussian Splatting with Localized Points Management".** In this paper, we propose a Localized Point Management (LPM) strategy, capable of identifying those error-contributing zones in the highest demand for both point addition and geometry calibration.  Serving as a versatile plugin, LPM can be seamlessly integrated into existing 3D Gaussian Splatting models.
@@ -80,11 +80,12 @@ python metrics.py -m <model path>
 
 ## 📜 BibTex
 ```bibtex
-@article{yang2024localized,
-  title={Localized Gaussian Point Management},
+@inproceedings{yang2025improving,
+  title={Improving Gaussian Splatting with Localized Points Management},
   author={Yang, Haosen and Zhang, Chenhao and Wang, Wenqing and Volino, Marco and Hilton, Adrian and Zhang, Li and Zhu, Xiatian},
-  journal={arXiv preprint arXiv:2406.04251},
-  year={2024}
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={21696--21705},
+  year={2025}
 }
 
 ```
