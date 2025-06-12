@@ -1,5 +1,5 @@
 # Improving Gaussian Splatting with Localized Points Management
-[Homepage]([https://surrey-uplab.github.io/research/LPM/](https://happy-hsy.github.io/projects/LPM/)) [Paper](https://arxiv.org/abs/2406.04251)
+[Homepage](https://happy-hsy.github.io/projects/LPM/) | [Paper](https://arxiv.org/abs/2406.04251)
 > [**Improving Gaussian Splatting with Localized Points Management**](https:///x-up-lab.github.io/research/LPM/)           
 > Haosen Yang*, Chenhao Zhang*, Wenqing Wang*, Marco Volino, Adrian Hilton, Li Zhang, Xiatian Zhu  
 > **CVPR2025 (Highlight)**
